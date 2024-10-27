@@ -1,7 +1,6 @@
 # Tugas Akhir Teknologi Web 2023
 
 ## Instalation
-
 ### Init DB
 
 -   Create DB Name: hotel
